@@ -1,9 +1,4 @@
 <div align="center">
-
-# TrustBid
-
-### Global Impact & Transparency
-
 <p align="center">
   <img src="./assets/team.jpg" alt="TrustBid Team" width="900">
 </p>
@@ -11,6 +6,13 @@
 </div>
 
 ---
+## Repositorios activos
+
+| Repo | Stack | Descripción |
+|---|---|---|
+| [platform](https://github.com/TrustBid/platform) | Next.js · NestJS · Turborepo | Monorepo principal — DApp, API, packages |
+| [docs](https://github.com/TrustBid/docs) | Markdown · Mermaid | Arquitectura UML/C4 y documentación técnica |
+| [contracts](https://github.com/TrustBid/contracts) | Rust · Soroban | Smart contracts en Stellar |
 
 ## 🌍 The Problem
 
@@ -76,13 +78,6 @@ Build trust in philanthropy by making every donation transparent, traceable, and
 
 </div>
 
-## Repositorios activos
-
-| Repo | Stack | Descripción |
-|---|---|---|
-| [platform](https://github.com/TrustBid/platform) | Next.js · NestJS · Turborepo | Monorepo principal — DApp, API, packages |
-| [docs](https://github.com/TrustBid/docs) | Markdown · Mermaid | Arquitectura UML/C4 y documentación técnica |
-| [contracts](https://github.com/TrustBid/contracts) | Rust · Soroban | Smart contracts en Stellar |
 
 ## Stack
 
