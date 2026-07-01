@@ -5,7 +5,7 @@
 ### Global Impact & Transparency
 
 <p align="center">
-  <img src="../assets/team.png" alt="TrustBid Team" width="900">
+  <img src="./assets/team.jpg" alt="TrustBid Team" width="900">
 </p>
 
 </div>
