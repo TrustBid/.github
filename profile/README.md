@@ -62,15 +62,6 @@ Build trust in philanthropy by making every donation transparent, traceable, and
 
 ---
 
-## 🛠 Tech Stack
-
-- Stellar
-- Soroban Smart Contracts
-- React / Next.js
-- Node.js
-- TypeScript
-
----
 
 <div align="center">
 
